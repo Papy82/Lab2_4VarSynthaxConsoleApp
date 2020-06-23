@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_4VarSynthaxConsoleApp", "Lab2_4VarSynthaxConsoleApp.csproj", "{1CD246C6-1ED4-4D0B-879A-584F73DBF348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD246C6-1ED4-4D0B-879A-584F73DBF348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD246C6-1ED4-4D0B-879A-584F73DBF348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD246C6-1ED4-4D0B-879A-584F73DBF348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD246C6-1ED4-4D0B-879A-584F73DBF348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB86485-95C0-4BAA-A7E9-1394B0125A11}
+	EndGlobalSection
+EndGlobal
